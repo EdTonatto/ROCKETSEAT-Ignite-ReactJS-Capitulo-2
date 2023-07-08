@@ -8,7 +8,7 @@ export function Router() {
     <Routes>
       <Route path="/" element={<DefaultLayout />}>
         <Route
-          path="/ROCKETSEAT-Ignite-ReactJS-Capitulo-2"
+          path="/ROCKETSEAT-Ignite-ReactJS-Capitulo-2/"
           element={<Home />}
         />
         <Route
